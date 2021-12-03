@@ -7,4 +7,4 @@
 
 Teve como diferencial a alteração de cores e a adição de um botão para mudar o visual da página
 
-![Resultado](imagens/resultado.jpg)
+![Resultado](imagens/Resultado.jpg)
